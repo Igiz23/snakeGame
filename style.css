@@ -1,0 +1,9 @@
+body {
+    background-image: linear-gradient(#64B61A, #e8be52);
+    background-size: 300% 300%;
+}
+
+canvas {
+    display: block;
+    margin: auto;
+}
